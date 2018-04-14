@@ -1,0 +1,6 @@
+Header Horizontal
+alignItems center
+justifyContent flex-start
+backgroundColor #1d0077
+Image
+source ./logo.png
