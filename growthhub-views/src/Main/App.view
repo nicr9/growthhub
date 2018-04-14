@@ -6,9 +6,9 @@ flexBasis
 Header
 
 Horizontal
-flexBasis auto
 flexGrow 1
 flexShrink 1
+flexBasis
 Image
 source ./logo.png
 width 250
@@ -283,13 +283,6 @@ marginLeft 10
 width 40
 
 
-Horizontal
-alignItems center
-flexBasis auto
-flexGrow 1
-flexShrink 1
-justifyContent center
-
 
 Vertical
 alignItems center
@@ -310,12 +303,3 @@ borderColor #b0bdff
 shadowOffsetX 0
 shadowOffsetY 5
 shadowBlur 20
-
-
-
-Horizontal
-alignItems center
-flexBasis auto
-flexGrow 1
-flexShrink 1
-justifyContent center
