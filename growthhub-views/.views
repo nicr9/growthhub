@@ -1,0 +1,8 @@
+{
+ "App": {
+  "width": 1280,
+  "height": 800,
+  "isLight": false,
+  "direction": "row"
+ }
+}

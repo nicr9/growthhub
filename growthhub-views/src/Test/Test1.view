@@ -1,0 +1,16 @@
+Test1 Vertical
+alignItems center
+flexBasis auto
+flexShrink 1
+justifyContent center
+flexGrow 1
+Text
+fontSize 18
+text < Hello Views Tools!
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...

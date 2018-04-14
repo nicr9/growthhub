@@ -1,9 +1,372 @@
 App Vertical
-alignItems center
+overflowY auto
 flexGrow 1
 flexShrink 1
+flexBasis
+PageHeader Horizontal
+alignItems center
 flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent flex-start
+backgroundColor #1d0077
+Image
+source ./logo.png
+flexGrow 1
+flexShrink 1
+
+
+QuestionsBlock Vertical
+alignItems flex-start
+flexBasis auto
+flexGrow 1
+flexShrink 1
 justifyContent center
-Text
+Intro Text
+color #323232
+fontFamily Montserrat
 fontSize 18
-text < Hello Views Tools!
+fontWeight 400
+text We can still help you by referring your application to our panel of approved 3rd party lending partners.  Please take 5 minutes to complete the additional details required, and we will identify suitable candidate lenders for you.  We will then forward your application to the lender(s) that you choose.
+marginTop 10
+
+Horizontal
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+marginLeft 20
+marginTop 40
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text What is it that you wish to achieve?  (Please Select)
+marginTop 10
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text (DROP DOWN LIST)
+marginTop 10
+marginLeft 100
+
+
+QuestionsVertical Vertical
+alignItems flex-start
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+marginLeft 20
+Debtors
+
+Horizontal
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+marginTop 10
+Text
+color #ffffff
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Please Provide Details of your Top 5 Debtors:
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Name
+marginLeft 50
+
+CaptureText
+alignSelf stretch
+borderWidth 1
+borderStyle solid
+borderColor #323232
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+placeholder Waiting for your input...
+onChange <
+value <
+marginLeft 10
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Amount of Debt
+marginLeft 50
+
+CaptureText
+alignSelf stretch
+borderWidth 1
+borderStyle solid
+borderColor #323232
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+placeholder Waiting for your input...
+onChange <
+value <
+marginLeft 10
+
+
+Horizontal
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+marginTop 10
+Text
+color #ffffff
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Please Provide Details of your Top 5 Debtors:
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Name
+marginLeft 50
+
+CaptureText
+alignSelf stretch
+borderWidth 1
+borderStyle solid
+borderColor #323232
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+placeholder Waiting for your input...
+onChange <
+value <
+marginLeft 10
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Amount of Debt
+marginLeft 50
+
+CaptureText
+alignSelf stretch
+borderWidth 1
+borderStyle solid
+borderColor #323232
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+placeholder Waiting for your input...
+onChange <
+value <
+marginLeft 10
+
+
+Horizontal
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+marginTop 10
+Text
+color #ffffff
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Please Provide Details of your Top 5 Debtors:
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Name
+marginLeft 50
+
+CaptureText
+alignSelf stretch
+borderWidth 1
+borderStyle solid
+borderColor #323232
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+placeholder Waiting for your input...
+onChange <
+value <
+marginLeft 10
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Amount of Debt
+marginLeft 50
+
+CaptureText
+alignSelf stretch
+borderWidth 1
+borderStyle solid
+borderColor #323232
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+placeholder Waiting for your input...
+onChange <
+value <
+marginLeft 10
+
+
+Horizontal
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+marginTop 10
+Text
+color #ffffff
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Please Provide Details of your Top 5 Debtors:
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Name
+marginLeft 50
+
+CaptureText
+alignSelf stretch
+borderWidth 1
+borderStyle solid
+borderColor #323232
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+placeholder Waiting for your input...
+onChange <
+value <
+marginLeft 10
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Amount of Debt
+marginLeft 50
+
+CaptureText
+alignSelf stretch
+borderWidth 1
+borderStyle solid
+borderColor #323232
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+placeholder Waiting for your input...
+onChange <
+value <
+marginLeft 10
+
+
+Horizontal
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+marginTop 10
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text I give consent to share my Ulster Bank loan application details with approved 3rd party lending providers
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text CHECKBOX
+left 50
+
+
+Horizontal
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+marginTop 10
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text I give consent to access and share my Ulster Bank account statement data with approved 3rd party lending providers
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text CHECKBOX
+left 50
+
+
+Horizontal
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+false
+false
+
+
+Vertical
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+marginTop 40
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...
