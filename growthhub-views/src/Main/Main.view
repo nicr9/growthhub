@@ -42,7 +42,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Slow Payer
-marginLeft 100
+marginLeft 60
 borderColor #ffaa00
 
 
