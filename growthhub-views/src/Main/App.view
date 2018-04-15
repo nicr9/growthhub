@@ -18,7 +18,7 @@ maybeSubmit <
 
 FinalMessage Text
 onWhen <isFinalMessage
-text Congratulations.
+text Congratulations. Your loan application has been submitted to:
 fontFamily Montserrat
 fontSize 24
 marginLeft 10
