@@ -5,13 +5,6 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-text Please Provide Details of your Top 5 Debtors:
-
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
 text Name
 marginRight 10
 marginLeft 50
