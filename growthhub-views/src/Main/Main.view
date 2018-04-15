@@ -85,6 +85,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Customer ID:
+marginRight 10
 
 FakeInput
 
