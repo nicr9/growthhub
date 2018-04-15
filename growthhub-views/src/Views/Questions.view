@@ -1,6 +1,5 @@
 Questions Vertical
 alignItems flex-start
-flexBasis auto
 justifyContent center
 marginTop 20
 Horizontal
