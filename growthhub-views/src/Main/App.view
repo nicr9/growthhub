@@ -20,4 +20,4 @@ FinalMessage Text
 onWhen <isFinalMessage
 text Congratulations.
 fontFamily Montserrat
-fontSize 36
+fontSize 18
