@@ -17,21 +17,6 @@ text Name
 marginTop 10
 marginLeft 50
 
-CaptureText
-alignSelf stretch
-borderWidth 1
-borderStyle solid
-borderColor #323232
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-placeholder Waiting for your input...
-onChange <
-value <
-marginTop 10
-marginLeft 10
-
 Text
 color #323232
 fontFamily Montserrat
