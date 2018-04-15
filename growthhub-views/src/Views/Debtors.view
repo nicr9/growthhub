@@ -33,7 +33,7 @@ paddingTop 10
 borderColor #d3d3d3
 borderWidth 1
 borderStyle solid
-borderTopLeftRadius 2
+borderTopLeftRadius 6
 borderTopRightRadius 2
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
