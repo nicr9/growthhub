@@ -25,6 +25,7 @@ fontFamily Montserrat
 fontSize 36
 marginLeft 20
 marginTop 50
+marginBottom 10
 
 FinalMessage Text
 text Your loan application has been submitted to:
