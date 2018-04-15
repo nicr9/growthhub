@@ -30,7 +30,7 @@ paddingBottom 10
 paddingLeft 10
 paddingRight 10
 paddingTop 10
-borderColor #ffffff
+borderColor #d3d3d3
 borderWidth 1
 borderStyle solid
 
