@@ -17,7 +17,6 @@ fontWeight 400
 text Please Provide Details of your Top 5 Debtors:
 
 Vertical
-alignItems center
 flexBasis auto
 flexGrow 1
 flexShrink 1
