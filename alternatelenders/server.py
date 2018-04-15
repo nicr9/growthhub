@@ -4,8 +4,10 @@ import os
 
 from enum import Enum
 from flask import Flask, jsonify
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 class reason(Enum):
     INVOICE = 1
@@ -184,4 +186,4 @@ def get_loan_summary(loan_id):
     return resp.json()
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host="0.0.0.0")
