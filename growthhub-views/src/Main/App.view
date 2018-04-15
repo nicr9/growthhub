@@ -33,7 +33,6 @@ marginTop 10
 marginLeft 10
 
 Vertical
-alignItems center
 justifyContent center
 FinalMessage Text
 onWhen <isFinalMessage
