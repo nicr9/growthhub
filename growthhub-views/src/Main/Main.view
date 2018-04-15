@@ -153,7 +153,6 @@ FakePIN
 
 
 Vertical
-alignItems center
 justifyContent center
 marginTop 25
 BuittonSolid
