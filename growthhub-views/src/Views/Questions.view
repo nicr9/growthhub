@@ -46,14 +46,6 @@ fontSize 18
 fontWeight 400
 text I give consent to share my Ulster Bank loan application details with approved 3rd party lending providers
 
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text CHECKBOX
-left 50
-
 
 Horizontal
 alignItems center
