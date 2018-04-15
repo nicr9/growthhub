@@ -35,7 +35,6 @@ marginLeft 10
 Vertical
 alignItems center
 flexBasis auto
-flexShrink 1
 justifyContent center
 FinalMessage Text
 onWhen <isFinalMessage
