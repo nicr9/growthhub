@@ -9,7 +9,6 @@ paddingRight 20
 QuestionsBlock Vertical
 alignItems flex-start
 justifyContent center
-overflowY auto
 Intro Text
 color #323232
 fontFamily Montserrat
