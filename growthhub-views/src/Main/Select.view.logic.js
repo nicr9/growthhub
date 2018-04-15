@@ -44,7 +44,10 @@ class SelectOverLogic extends React.Component {
           item => item.isSelected
         )
 
-        this.props.maybeSubmit(somethingIsSelected)
+        this.props.maybeSubmit(
+          somethingIsSelected,
+          this.state.lenders.filter(item => item.isSelected)
+        )
       }
     )
   }

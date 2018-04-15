@@ -3,6 +3,7 @@ import App from './App.view.js'
 
 export default class AppLogic extends React.Component {
   state = {
+    accepted: [],
     isMain: true,
     isSelect: false,
     isSubmit: false,
@@ -36,9 +37,10 @@ export default class AppLogic extends React.Component {
     })
   }
 
-  maybeSubmit = isSubmit => {
+  maybeSubmit = (isSubmit, accepted) => {
     this.setState({
-      isSubmit
+      isSubmit,
+      accepted
     })
   }
 
