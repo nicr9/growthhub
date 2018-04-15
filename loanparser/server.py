@@ -1,9 +1,9 @@
-from flask import Flask
+from flask import Flask, jsonify
 app = Flask(__name__)
 
 @app.route("/")
 def loan_summary():
-    return {
+    return jsonify({
             "we_need": "€50k to fund working capital as we have just won a new contract to supply Waitrose",
             "we_do": [
                 "Veganic is growing company supplying organic vegan ready meals",
@@ -55,5 +55,8 @@ def loan_summary():
                     "creditors": -93750,
                     "cash_od": -31250,
                 },
-            ]
+            ],
+        })
 
+if __name__ == "__main__":
+    app.run(host="127.0.0.1", port=5001)
