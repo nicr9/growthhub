@@ -40,7 +40,6 @@ value 1000
 
 Horizontal
 alignItems center
-flexBasis auto
 justifyContent center
 marginTop 10
 Text
