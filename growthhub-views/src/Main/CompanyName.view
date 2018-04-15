@@ -1,5 +1,6 @@
 CompanyName Horizontal
 alignItems center
+marginTop 10
 Vertical
 backgroundColor #00C658
 width 10
