@@ -34,14 +34,15 @@ fontSize 18
 marginTop 10
 marginLeft 20
 
+List
+from <accepted
+marginLeft 20
+CompanyName
+
+
 FinalMessage Text
 text These companies will review your information and provide you with a response within 72 hours, starting NOW!
 fontFamily Montserrat
 fontSize 18
 marginTop 10
 marginLeft 20
-
-List
-from <accepted
-marginLeft 20
-CompanyName
