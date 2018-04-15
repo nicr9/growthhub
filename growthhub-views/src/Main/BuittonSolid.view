@@ -11,7 +11,7 @@ borderTopRightRadius 6
 borderBottomLeftRadius 6
 borderBottomRightRadius 6
 onClick <
-marginRight < 20
+marginRight < 0
 marginLeft 10
 when <isSelected
 backgroundColor #00C658
