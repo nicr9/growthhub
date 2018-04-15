@@ -177,7 +177,6 @@ FakePIN
 
 Vertical
 alignItems center
-flexBasis auto
 justifyContent center
 marginLeft 100
 marginTop 80
