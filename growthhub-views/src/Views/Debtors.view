@@ -14,7 +14,7 @@ fontSize 18
 fontWeight 400
 text Name
 marginRight 10
-marginLeft 10
+marginLeft 50
 
 Text
 color #323232
