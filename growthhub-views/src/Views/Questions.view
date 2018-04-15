@@ -7,7 +7,6 @@ justifyContent center
 marginTop 20
 Horizontal
 flexBasis auto
-flexShrink 1
 Text
 color #323232
 fontFamily Montserrat
