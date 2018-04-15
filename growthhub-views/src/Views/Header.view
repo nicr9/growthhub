@@ -22,4 +22,4 @@ onWhen <isSubmit
 alignSelf flex-end
 text SUBMIT
 onClick <finalMessage
-marginRight 0
+marginRight 20
