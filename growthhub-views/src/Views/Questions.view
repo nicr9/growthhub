@@ -60,6 +60,13 @@ alignItems center
 justifyContent center
 marginTop 10
 flexWrap wrap
+Horizontal
+alignItems center
+justifyContent center
+width 20
+height 20
+backgroundColor #00C658
+
 Text
 color #323232
 fontFamily Montserrat
