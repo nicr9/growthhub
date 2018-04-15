@@ -31,7 +31,7 @@ text Your loan application has been submitted to:
 fontFamily Montserrat
 fontSize 18
 marginTop 10
-marginLeft 10
+marginLeft 20
 
 List
 from <accepted
