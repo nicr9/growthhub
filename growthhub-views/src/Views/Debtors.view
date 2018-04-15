@@ -32,6 +32,7 @@ paddingRight 10
 paddingTop 10
 borderColor #ffaa00
 borderWidth 1
+borderStyle solid
 
 Text
 color #323232
