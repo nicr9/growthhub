@@ -1,7 +1,6 @@
 CompanyName Vertical
 FinalMessage Text
-onWhen <isFinalMessage
-text Company name
+text < Company name
 fontFamily Montserrat
 fontSize 24
 marginTop 10
