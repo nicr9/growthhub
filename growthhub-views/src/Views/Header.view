@@ -4,6 +4,14 @@ justifyContent flex-start
 backgroundColor #001454
 height 80
 paddingLeft 20
+Vertical
 onClick <
 Image
 source ./logo.png
+
+
+BuittonSolid
+onWhen <isSubmit
+alignSelf flex-end
+text SUBMIT
+onClick <finalMessage

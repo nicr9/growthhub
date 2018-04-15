@@ -3,14 +3,18 @@ import App from './App.view.js'
 
 export default class AppLogic extends React.Component {
   state = {
-    isMain: false, // true,
-    isSelect: true, // false,
+    isMain: true,
+    isSelect: false,
+    isSubmit: false,
+    isFinalMessage: false,
   }
 
   main = () => {
     this.setState({
       isMain: true,
       isSelect: false,
+      isSubmit: false,
+      isFinalMessage: false,
     })
   }
 
@@ -18,6 +22,23 @@ export default class AppLogic extends React.Component {
     this.setState({
       isMain: false,
       isSelect: true,
+      isSubmit: false,
+      isFinalMessage: false,
+    })
+  }
+
+  finalMessage = () => {
+    this.setState({
+      isMain: false,
+      isSelect: false,
+      isSubmit: false,
+      isFinalMessage: true,
+    })
+  }
+
+  maybeSubmit = isSubmit => {
+    this.setState({
+      isSubmit
     })
   }
 
@@ -28,6 +49,8 @@ export default class AppLogic extends React.Component {
         {...this.state}
         main={this.main}
         select={this.select}
+        maybeSubmit={this.maybeSubmit}
+        finalMessage={this.finalMessage}
       />
     )
   }

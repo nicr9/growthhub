@@ -27,17 +27,26 @@ class SelectOverLogic extends React.Component {
   }
 
   toggleSelect = id => {
-    this.setState({
-      lenders: this.state.lenders.map(
-        item =>
-          item.id === id
-            ? {
-                ...item,
-                isSelected: !item.isSelected,
-              }
-            : item
-      ),
-    })
+    this.setState(
+      {
+        lenders: this.state.lenders.map(
+          item =>
+            item.id === id
+              ? {
+                  ...item,
+                  isSelected: !item.isSelected,
+                }
+              : item
+        ),
+      },
+      () => {
+        const somethingIsSelected = this.state.lenders.some(
+          item => item.isSelected
+        )
+
+        this.props.maybeSubmit(somethingIsSelected)
+      }
+    )
   }
 
   render() {
@@ -46,18 +55,26 @@ class SelectOverLogic extends React.Component {
 }
 
 export default class SelectLogic extends React.Component {
+  state = {
+    didFetch: false,
+    data: null,
+  }
+
   render() {
-    return (
-      <Fetch url="http://206.189.112.64:5000/">
-        {({ data: maybeData, error, fetching }) => {
-          if (fetching) return <Spinner width="100%" />
+    if (!this.state.didFetch) {
+      return (
+        <Fetch url="http://206.189.112.64:5000/">
+          {({ data: maybeData, error, fetching }) => {
+            if (fetching) return <Spinner width="100%" />
 
-          const data = morph(error ? staticData : maybeData)
+            const data = morph(error ? staticData : maybeData)
+            this.setState({ didFetch: true, data })
+            return null
+          }}
+        </Fetch>
+      )
+    }
 
-          console.log('data', data)
-          return <SelectOverLogic {...this.props} {...data} />
-        }}
-      </Fetch>
-    )
+    return <SelectOverLogic {...this.props} {...this.state.data} />
   }
 }

@@ -5,6 +5,8 @@ flexShrink 1
 flexBasis
 Header
 onClick <main
+isSubmit <
+finalMessage <
 
 Main
 onWhen <isMain
@@ -12,3 +14,8 @@ select <
 
 Select
 onWhen <isSelect
+maybeSubmit <
+
+FinalMessage Text
+onWhen <isFinalMessage
+text DONE!

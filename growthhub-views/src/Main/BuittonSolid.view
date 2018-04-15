@@ -19,6 +19,6 @@ color < #ffffff
 fontFamily Montserrat
 fontSize 14
 fontWeight 600
-text SELECT
+text < SELECT
 when <isSelected
 text SELECTED
