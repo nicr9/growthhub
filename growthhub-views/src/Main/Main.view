@@ -155,7 +155,7 @@ FakePIN
 Vertical
 justifyContent center
 marginTop 25
-alignSelf center
+alignSelf flex-end
 BuittonSolid
 onClick <select
 text Commence Online Assessment
