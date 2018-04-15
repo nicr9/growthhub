@@ -21,3 +21,9 @@ onWhen <isFinalMessage
 text Congratulations.
 fontFamily Montserrat
 fontSize 24
+
+FinalMessage Text
+onWhen <isFinalMessage
+text Your loan application has been submitted to:
+fontFamily Montserrat
+fontSize 24
