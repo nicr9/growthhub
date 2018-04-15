@@ -51,7 +51,7 @@ alignItems center
 justifyContent center
 width 10
 height 10
-backgroundColor #ffaa00
+backgroundColor #00C658
 
 
 Horizontal
