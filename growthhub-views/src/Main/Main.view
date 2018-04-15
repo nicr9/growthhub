@@ -58,7 +58,6 @@ Vertical
 alignItems flex-start
 justifyContent center
 marginTop 20
-left 20
 Text
 color #323232
 fontFamily Montserrat
