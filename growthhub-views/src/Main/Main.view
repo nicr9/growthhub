@@ -113,6 +113,8 @@ fontWeight 400
 text 1st
 marginLeft 104
 
+FakePIN
+
 Text
 color #323232
 fontFamily Montserrat
