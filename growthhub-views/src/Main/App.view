@@ -19,3 +19,4 @@ maybeSubmit <
 FinalMessage Text
 onWhen <isFinalMessage
 text Congratulations.
+fontFamily Montserrat
