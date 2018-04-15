@@ -1,0 +1,19 @@
+IsOKSvg Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+viewBox 0 0 75 75
+width < 75
+height < 75
+SvgCircle
+r 37.5
+cy 37.5
+cx 37.5
+fill <fill3 #00C658
+
+SvgPath
+strokeWidth 8
+stroke < #FFF
+d M17 34.976l15.31 15.31L58.596 24

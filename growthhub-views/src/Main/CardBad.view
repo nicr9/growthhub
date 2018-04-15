@@ -1,0 +1,43 @@
+CardBad Horizontal
+alignItems center
+borderTopLeftRadius 10
+borderTopRightRadius 10
+borderBottomLeftRadius 10
+borderBottomRightRadius 10
+marginLeft 20
+marginRight 20
+marginTop 20
+shadowOffsetX 0
+shadowOffsetY 5
+shadowBlur 10
+shadowSpread 0
+shadowColor rgba(100,150,180,0.2)
+paddingBottom 15
+paddingLeft 15
+paddingRight 15
+paddingTop 15
+IsBadSvg
+width 50
+height 50
+isBadfill #EF8900
+
+Vertical
+justifyContent center
+marginLeft 20
+flexGrow 1
+flexShrink 1
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Company Name
+flexGrow 1
+
+Text
+color #EF8900
+fontFamily Montserrat
+fontSize 12
+fontWeight 400
+text Nat a match:
+marginTop 5

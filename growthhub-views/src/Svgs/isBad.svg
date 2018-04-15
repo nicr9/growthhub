@@ -1,0 +1,20 @@
+<svg width="75" height="75" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+ <title>Artboard 2 Copy</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Artboard-2-Copy">
+   <circle r="37.5" cy="37.5" cx="37.5" fill="#EF8900" id="Oval"/>
+   <g stroke-width="8" stroke-linecap="square" stroke="#FFFFFF" transform="rotate(-315 37.49999999999998,37.50000000000001) translate(-37.5,-37.5) translate(19,19) " id="Group">
+    <path id="Line" d="m56,38l0,36"/>
+    <path id="Line" d="m74,56l-36,0"/>
+   </g>
+  </g>
+ </g>
+</svg>

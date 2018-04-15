@@ -1,0 +1,68 @@
+CardOK Horizontal
+alignItems center
+borderTopLeftRadius 10
+borderTopRightRadius 10
+borderBottomLeftRadius 10
+borderBottomRightRadius 10
+marginLeft 20
+marginRight 20
+marginTop 20
+shadowOffsetX 0
+shadowOffsetY 5
+shadowBlur 10
+shadowSpread 0
+shadowColor rgba(100,150,180,0.2)
+paddingBottom 15
+paddingLeft 15
+paddingRight 15
+paddingTop 15
+IsOKSvg
+width 50
+height 50
+
+Vertical
+justifyContent center
+marginLeft 20
+flexGrow 1
+flexShrink 1
+flexBasis
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Company Name
+flexGrow 1
+
+Text
+color #00C658
+fontFamily Montserrat
+fontSize 12
+fontWeight 400
+text Postitive Match
+marginTop 5
+
+
+Vertical
+alignItems center
+justifyContent center
+paddingBottom 15
+paddingLeft 25
+paddingRight 25
+paddingTop 15
+borderColor #2a81ee
+borderWidth 1
+borderStyle solid
+borderTopLeftRadius 6
+borderTopRightRadius 6
+borderBottomLeftRadius 6
+borderBottomRightRadius 6
+Text
+color #2a81ee
+fontFamily Montserrat
+fontSize 12
+fontWeight 400
+text Find out more
+
+
+BuittonSolid

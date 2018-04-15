@@ -1,6 +1,9 @@
 Header Horizontal
 alignItems center
 justifyContent flex-start
-backgroundColor #1d0077
+backgroundColor #001454
+height 80
+paddingLeft 20
+onClick <
 Image
 source ./logo.png

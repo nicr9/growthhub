@@ -1,0 +1,20 @@
+IsBadSvg Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+viewBox 0 0 75 75
+width < 75
+height < 75
+SvgCircle
+r 37.5
+cy 37.5
+cx 37.5
+fill <isBadfill #EF8900
+
+SvgPath
+strokeWidth 8
+strokeLinecap square
+stroke < #FFF
+d M50.228 24.772L24.772 50.228M50.228 50.228L24.772 24.772

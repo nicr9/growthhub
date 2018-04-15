@@ -1,0 +1,17 @@
+<svg width="75" height="75" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+ <title>Artboard 2</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Artboard-2">
+   <circle r="37.5" cy="37.5" cx="37.5" fill="#00C658" id="Oval"/>
+   <polyline points="17 34.9761299 32.3097866 50.2859165 58.5957031 24" stroke-width="8" stroke="#FFFFFF" id="Path-2"/>
+  </g>
+ </g>
+</svg>

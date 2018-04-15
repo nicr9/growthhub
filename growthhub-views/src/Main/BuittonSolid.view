@@ -1,0 +1,20 @@
+BuittonSolid Vertical
+alignItems center
+justifyContent center
+backgroundColor < #2a81ee
+paddingBottom 15
+paddingLeft 25
+paddingRight 25
+paddingTop 15
+borderTopLeftRadius 6
+borderTopRightRadius 6
+borderBottomLeftRadius 6
+borderBottomRightRadius 6
+marginLeft 10
+onClick <
+Text
+color < #ffffff
+fontFamily Montserrat
+fontSize 14
+fontWeight 600
+text SELECT

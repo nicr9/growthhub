@@ -1,0 +1,95 @@
+{
+  "application_summary": {
+    "finances": [
+      {
+        "cash_od": -2083, 
+        "creditors": -6250, 
+        "debtors": 8333, 
+        "gross_profit": 25000, 
+        "op_ex": 24500, 
+        "profit": 500, 
+        "sales": 50000, 
+        "year": "2016"
+      }, 
+      {
+        "cash_od": -6250, 
+        "creditors": -18750, 
+        "debtors": 25000, 
+        "gross_profit": 75000, 
+        "op_ex": 73500, 
+        "profit": 1500, 
+        "sales": 150000, 
+        "year": "2017"
+      }, 
+      {
+        "cash_od": -8333, 
+        "creditors": -25000, 
+        "debtors": 33333, 
+        "gross_profit": 100000, 
+        "op_ex": 84000, 
+        "profit": 16000, 
+        "sales": 200000, 
+        "year": "2018"
+      }, 
+      {
+        "cash_od": -31250, 
+        "creditors": -93750, 
+        "debtors": 125000, 
+        "gross_profit": 375000, 
+        "op_ex": 300000, 
+        "profit": 75000, 
+        "sales": 750000, 
+        "year": "2019"
+      }
+    ], 
+    "we_do": [
+      "Veganic is growing company supplying organic vegan ready meals", 
+      "Three years in operation with annual growth of 120%", 
+      "Full ethical supply chain with ingredients sourced from local certified organic producers", 
+      "Funded from owners equity, overdraft (UB) and LEO grant"
+    ], 
+    "we_need": "\u20ac50k to fund working capital as we have just won a new contract to supply Waitrose"
+  }, 
+  "lenders": [
+    {
+      "name": "Accerelated Payments", 
+      "rates": "5% to 10%", 
+      "reasons": []
+    }, 
+    {
+      "name": "Supply Finance", 
+      "rates": "5% to 10%", 
+      "reasons": []
+    }, 
+    {
+      "name": "Peer Finance", 
+      "rates": "5% to 10%", 
+      "reasons": [
+        "Lender does not offer loans for that purpose"
+      ]
+    }, 
+    {
+      "name": "Crowd Me", 
+      "rates": "5% to 10%", 
+      "reasons": [
+        "Lender does not offer loans for that purpose", 
+        "Lender does not offer loans within that range"
+      ]
+    }, 
+    {
+      "name": "Prop Fund", 
+      "rates": "5% to 10%", 
+      "reasons": [
+        "Lender does not offer loans for that purpose", 
+        "Lender does not offer loans within that range"
+      ]
+    }, 
+    {
+      "name": "Vans Etc", 
+      "rates": "5% to 10%", 
+      "reasons": [
+        "Lender does not offer loans for that purpose"
+      ]
+    }
+  ]
+}
