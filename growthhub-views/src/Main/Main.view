@@ -6,9 +6,6 @@ flexBasis auto
 paddingLeft 20
 paddingTop 40
 paddingRight 20
-QuestionsBlock Vertical
-alignItems flex-start
-justifyContent center
 Intro Text
 color #323232
 fontFamily Montserrat
@@ -18,10 +15,6 @@ text We can still help you by referring your application to our panel of approve
 marginTop 10
 
 Horizontal
-alignItems center
-flexBasis auto
-flexGrow 1
-flexShrink 1
 justifyContent center
 marginTop 40
 Text
@@ -45,9 +38,6 @@ Questions
 
 Horizontal
 alignItems center
-flexBasis auto
-flexGrow 1
-flexShrink 1
 justifyContent center
 Vertical
 alignItems flex-start
@@ -123,9 +113,6 @@ FakePIN
 
 Horizontal
 alignItems center
-flexBasis auto
-flexGrow 1
-flexShrink 1
 justifyContent center
 marginTop 10
 Text
