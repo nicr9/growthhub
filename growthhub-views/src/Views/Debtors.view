@@ -36,7 +36,7 @@ value <
 marginTop 10
 marginLeft 10
 borderTopLeftRadius 4
-borderTopRightRadius 2
+borderTopRightRadius 4
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
 
