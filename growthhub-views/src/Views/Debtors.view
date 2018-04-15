@@ -11,7 +11,7 @@ marginRight 10
 marginLeft 50
 
 FakeInput
-company Londis
+company < Londis
 
 Text
 color #323232
