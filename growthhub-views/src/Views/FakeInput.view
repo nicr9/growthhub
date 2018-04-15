@@ -1,0 +1,18 @@
+FakeInput Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text <company Tesco
+width 200
+paddingBottom 10
+paddingLeft 10
+paddingRight 10
+paddingTop 10
+borderColor #d3d3d3
+borderWidth 1
+borderStyle solid
+borderTopLeftRadius 6
+borderTopRightRadius 6
+borderBottomLeftRadius 6
+borderBottomRightRadius 6
