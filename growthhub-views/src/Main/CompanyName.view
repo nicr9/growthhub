@@ -1,7 +1,6 @@
 CompanyName Horizontal
 marginTop 5
 alignItems center
-justifyContent center
 Vertical
 backgroundColor #00C658
 width 10
