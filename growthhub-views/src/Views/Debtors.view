@@ -20,7 +20,7 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-text Name
+text < Name
 width 200
 paddingBottom 10
 paddingLeft 10
