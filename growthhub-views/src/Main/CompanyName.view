@@ -1,7 +1,19 @@
-CompanyName Vertical
+CompanyName Horizontal
+marginTop 5
+alignItems center
+justifyContent center
+Vertical
+backgroundColor #00C658
+width 10
+height 10
+borderTopRightRadius 10
+borderTopLeftRadius 10
+borderBottomRightRadius 10
+borderBottomLeftRadius 10
+
 FinalMessage Text
 text <name Company name
 fontFamily Montserrat
-fontSize 24
+fontSize 18
 marginTop 10
 marginLeft 10
