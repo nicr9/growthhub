@@ -16,20 +16,24 @@ Select
 onWhen <isSelect
 maybeSubmit <
 
-FinalMessage Text
+Vertical
 onWhen <isFinalMessage
+FinalMessage Text
 text Congratulations.
+color #00C658
 fontFamily Montserrat
 fontSize 36
 marginLeft 10
 marginTop 10
 
 FinalMessage Text
-onWhen <isFinalMessage
 text Your loan application has been submitted to:
 fontFamily Montserrat
-fontSize 24
+fontSize 18
 marginTop 10
 marginLeft 10
 
+List
+from <accepted
+marginLeft 10
 CompanyName
