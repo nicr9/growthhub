@@ -39,19 +39,19 @@ Horizontal
 alignItems center
 justifyContent center
 marginTop 10
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text I give consent to share my Ulster Bank loan application details with approved 3rd party lending providers
-
 Horizontal
 alignItems center
 justifyContent center
 width 20
 height 20
 backgroundColor #00C658
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text I give consent to share my Ulster Bank loan application details with approved 3rd party lending providers
 
 
 Horizontal
