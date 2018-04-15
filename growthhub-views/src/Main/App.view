@@ -24,7 +24,7 @@ color #00C658
 fontFamily Montserrat
 fontSize 36
 marginLeft 20
-marginTop 10
+marginTop 50
 
 FinalMessage Text
 text Your loan application has been submitted to:
