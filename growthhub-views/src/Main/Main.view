@@ -86,6 +86,8 @@ fontSize 18
 fontWeight 400
 text Customer ID:
 
+FakeInput
+
 
 Horizontal
 alignItems center
