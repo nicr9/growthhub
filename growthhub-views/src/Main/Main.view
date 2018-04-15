@@ -178,7 +178,6 @@ FakePIN
 Vertical
 alignItems center
 justifyContent center
-marginLeft 100
 marginTop 80
 BuittonSolid
 onClick <select
