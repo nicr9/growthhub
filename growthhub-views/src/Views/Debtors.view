@@ -22,6 +22,16 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
+text Name
+marginTop 10
+marginLeft 50
+width 100
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
 text Amount of Debt
 marginTop 10
 marginLeft 50
