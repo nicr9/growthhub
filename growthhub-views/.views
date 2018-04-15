@@ -10,5 +10,11 @@
   "height": 800,
   "isLight": false,
   "direction": "row"
+ },
+ "Debtors": {
+  "width": 1280,
+  "height": 800,
+  "isLight": false,
+  "direction": "row"
  }
 }
