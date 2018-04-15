@@ -36,7 +36,7 @@ borderStyle solid
 borderTopLeftRadius 6
 borderTopRightRadius 6
 borderBottomLeftRadius 6
-borderBottomRightRadius 2
+borderBottomRightRadius 6
 
 Text
 color #323232
