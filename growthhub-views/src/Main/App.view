@@ -21,6 +21,7 @@ onWhen <isFinalMessage
 text Congratulations.
 fontFamily Montserrat
 fontSize 24
+marginLeft 10
 
 FinalMessage Text
 onWhen <isFinalMessage
