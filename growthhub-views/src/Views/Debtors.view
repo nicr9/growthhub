@@ -37,6 +37,7 @@ marginTop 10
 marginLeft 10
 borderTopLeftRadius 2
 borderTopRightRadius 2
+borderBottomLeftRadius 2
 
 Text
 color #323232
