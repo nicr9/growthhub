@@ -15,6 +15,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Please Provide Details of your Top 5 Debtors:
+marginTop 10
 
 Vertical
 flexBasis auto
