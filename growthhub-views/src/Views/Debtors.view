@@ -38,7 +38,7 @@ marginLeft 10
 borderTopLeftRadius 4
 borderTopRightRadius 4
 borderBottomLeftRadius 4
-borderBottomRightRadius 2
+borderBottomRightRadius 4
 
 Text
 color #323232
