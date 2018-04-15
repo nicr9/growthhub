@@ -9,7 +9,6 @@ paddingRight 20
 QuestionsBlock Vertical
 alignItems flex-start
 flexBasis auto
-flexShrink 1
 justifyContent center
 overflowY auto
 Intro Text
