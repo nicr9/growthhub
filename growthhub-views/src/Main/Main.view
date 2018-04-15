@@ -133,6 +133,8 @@ fontWeight 400
 text 4th
 marginLeft 50
 
+FakePIN
+
 
 Horizontal
 alignItems center
