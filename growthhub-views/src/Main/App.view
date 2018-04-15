@@ -18,4 +18,4 @@ maybeSubmit <
 
 FinalMessage Text
 onWhen <isFinalMessage
-text DONE!
+text Congratulations.
