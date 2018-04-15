@@ -12,6 +12,7 @@ borderBottomLeftRadius 6
 borderBottomRightRadius 6
 marginLeft 10
 onClick <
+alignSelf center
 when <isSelected
 backgroundColor #00C658
 Text
