@@ -8,7 +8,6 @@ paddingTop 40
 paddingRight 20
 QuestionsBlock Vertical
 alignItems flex-start
-flexBasis auto
 justifyContent center
 overflowY auto
 Intro Text
