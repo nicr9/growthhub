@@ -31,3 +31,11 @@ fontFamily Montserrat
 fontSize 24
 marginTop 10
 marginLeft 10
+
+FinalMessage Text
+onWhen <isFinalMessage
+text Company name
+fontFamily Montserrat
+fontSize 24
+marginTop 10
+marginLeft 10
