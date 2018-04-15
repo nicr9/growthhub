@@ -4,5 +4,11 @@
   "height": 800,
   "isLight": false,
   "direction": "row"
+ },
+ "Main": {
+  "width": 1280,
+  "height": 800,
+  "isLight": false,
+  "direction": "row"
  }
 }
