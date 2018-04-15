@@ -36,7 +36,6 @@ borderColor #ffaa00
 Questions
 
 Vertical
-justifyContent center
 marginBottom 100
 Vertical
 alignItems flex-start
