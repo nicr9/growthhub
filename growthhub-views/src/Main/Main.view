@@ -38,7 +38,7 @@ Questions
 Horizontal
 alignItems center
 justifyContent center
-marginBottom 10
+marginBottom 100
 Vertical
 alignItems flex-start
 justifyContent center
