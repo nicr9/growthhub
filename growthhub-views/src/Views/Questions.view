@@ -29,65 +29,6 @@ flexShrink 1
 justifyContent center
 marginTop 10
 Text
-color #ffffff
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Please Provide Details of your Top 5 Debtors:
-
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Name
-marginLeft 50
-
-CaptureText
-alignSelf stretch
-borderWidth 1
-borderStyle solid
-borderColor #323232
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-placeholder Waiting for your input...
-onChange <
-value <
-marginLeft 10
-
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Amount of Debt
-marginLeft 50
-
-CaptureText
-alignSelf stretch
-borderWidth 1
-borderStyle solid
-borderColor #323232
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-placeholder Waiting for your input...
-onChange <
-value <
-marginLeft 10
-
-
-Horizontal
-alignItems center
-flexBasis auto
-flexGrow 1
-flexShrink 1
-justifyContent center
-marginTop 10
-Text
 color #323232
 fontFamily Montserrat
 fontSize 18
