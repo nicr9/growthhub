@@ -35,7 +35,6 @@ onChange <
 value <
 marginTop 10
 marginLeft 10
-borderTopRightRadius 4
 borderBottomLeftRadius 4
 borderBottomRightRadius 4
 
