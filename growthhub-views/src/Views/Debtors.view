@@ -34,7 +34,7 @@ borderColor #d3d3d3
 borderWidth 1
 borderStyle solid
 borderTopLeftRadius 6
-borderTopRightRadius 2
+borderTopRightRadius 6
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
 
