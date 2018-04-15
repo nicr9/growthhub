@@ -1,0 +1,19 @@
+Reason Horizontal
+marginTop 5
+alignItems center
+Vertical
+backgroundColor #EF8900
+width 4
+height 4
+borderTopRightRadius 4
+borderTopLeftRadius 4
+borderBottomRightRadius 4
+borderBottomLeftRadius 4
+
+Text
+color #EF8900
+fontFamily Montserrat
+fontSize 12
+fontWeight 400
+marginLeft 5
+text <reason

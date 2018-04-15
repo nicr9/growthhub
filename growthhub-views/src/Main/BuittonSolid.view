@@ -12,9 +12,13 @@ borderBottomLeftRadius 6
 borderBottomRightRadius 6
 marginLeft 10
 onClick <
+when <isSelected
+backgroundColor #00C658
 Text
 color < #ffffff
 fontFamily Montserrat
 fontSize 14
 fontWeight 600
 text SELECT
+when <isSelected
+text SELECTED

@@ -16,4 +16,5 @@ fill <fill3 #00C658
 SvgPath
 strokeWidth 8
 stroke < #FFF
+fill none
 d M17 34.976l15.31 15.31L58.596 24

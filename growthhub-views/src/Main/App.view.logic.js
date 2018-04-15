@@ -3,8 +3,8 @@ import App from './App.view.js'
 
 export default class AppLogic extends React.Component {
   state = {
-    isMain: true,
-    isSelect: false,
+    isMain: false, // true,
+    isSelect: true, // false,
   }
 
   main = () => {

@@ -31,16 +31,35 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-text Company Name
+text <name Company Name
 flexGrow 1
+
+Text
+marginTop 5
+color #00C658
+fontFamily Montserrat
+fontSize 12
+fontWeight 400
+text Positive Match
+
+Horizontal
+alignItems center
+marginTop 5
+Text
+color #00C658
+fontFamily Montserrat
+fontSize 12
+fontWeight 400
+text Rates:
 
 Text
 color #00C658
 fontFamily Montserrat
 fontSize 12
 fontWeight 400
-text Postitive Match
-marginTop 5
+text <rates 5 - 10%
+marginLeft 5
+
 
 
 Vertical
@@ -66,3 +85,5 @@ text Find out more
 
 
 BuittonSolid
+onClick <select
+isSelected <

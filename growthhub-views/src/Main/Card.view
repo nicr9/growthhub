@@ -1,0 +1,13 @@
+Card Vertical
+CardOK
+onWhen <isOk
+name <
+id <
+rates <
+select <
+isSelected <
+
+CardBad
+onWhen <!isOk
+name <
+reasons <
